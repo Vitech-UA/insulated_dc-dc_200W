@@ -51,7 +51,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=pcb_2Layer.PcbDoc
+DocumentPath=PWR.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,6 +100,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDWBJVKU
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PWR\Design Rule Check - pcb_2Layer.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PWR\Design Rule Check - PWR.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=__Project_Template_Version

@@ -101,6 +101,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CTRL\Design Rule Check - CTRL.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=__Project_Template_Version
 Value=1.0.2
@@ -171,7 +175,7 @@ Value=1.6 mm
 
 [Parameter18]
 Name=Authors
-Value=
+Value=Vitech
 
 [Parameter19]
 Name=Product_Name
@@ -1137,10 +1141,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=vitech_lib.IntLib
+ComponentDesignItemID0=UC3525
+ComponentSymbolReference0=UC3525
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1154,6 +1164,54 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Component Status
+ParameterUpdate2=1
+ParameterName3=Component Type
+ParameterUpdate3=1
+ParameterName4=ComponentLink1Description
+ParameterUpdate4=1
+ParameterName5=ComponentLink1URL
+ParameterUpdate5=1
+ParameterName6=Description
+ParameterUpdate6=1
+ParameterName7=GUID_1C
+ParameterUpdate7=1
+ParameterName8=Library Reference
+ParameterUpdate8=1
+ParameterName9=Lifecycle
+ParameterUpdate9=1
+ParameterName10=Manufacturer
+ParameterUpdate10=1
+ParameterName11=Package
+ParameterUpdate11=1
+ParameterName12=Part Number
+ParameterUpdate12=1
+ParameterName13=Part Type
+ParameterUpdate13=1
+ParameterName14=Price
+ParameterUpdate14=1
+ParameterName15=Replacement
+ParameterUpdate15=1
+ParameterName16=Standard Lead Time
+ParameterUpdate16=1
+ParameterName17=Supplier 1
+ParameterUpdate17=1
+ParameterName18=Supplier Part Number 1
+ParameterUpdate18=1
+ParameterName19=Temperature Range
+ParameterUpdate19=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=DIP16
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=SOIC-16
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

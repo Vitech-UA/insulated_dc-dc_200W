@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=DC-DC.MbsDoc|Kind=Multi-board Schematic Module|Designator=700|Source=..\Boards\XXX.TYY.ZZZ.700.v0\XXX.TYY.ZZZ.700.v0.PrjPcb
+Record=SubProject|SourceDocument=DC-DC.MbsDoc|ProjectPath=..\Boards\XXX.TYY.ZZZ.700.v0\XXX.TYY.ZZZ.700.v0.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DC-DC.MbsDoc|Kind=Multi-board Schematic Module|Designator=621|Source=..\Boards\XXX.TYY.ZZZ.621.v0\XXX.TYY.ZZZ.621.v0.PrjPcb
+Record=SubProject|SourceDocument=DC-DC.MbsDoc|ProjectPath=..\Boards\XXX.TYY.ZZZ.621.v0\XXX.TYY.ZZZ.621.v0.PrjPcb
+Record=DiagramHierarchy|SourceDocument=DC-DC.MbsDoc|Kind=Multi-board Schematic Module|Designator=UTBv5|Source=..\..\..\utb.001-dev\Boards\UTB.001.601.000v5\UTB.001.601.000v5.PrjPcb
+Record=SubProject|SourceDocument=DC-DC.MbsDoc|ProjectPath=..\..\..\utb.001-dev\Boards\UTB.001.601.000v5\UTB.001.601.000v5.PrjPcb

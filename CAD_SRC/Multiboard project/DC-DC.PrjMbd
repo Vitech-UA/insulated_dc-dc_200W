@@ -69,6 +69,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=PWR.PrjPcb
+VaultURL=
+VaultName=
 
 [Document2]
 DocumentPath=DC-DC.MbaDoc
@@ -124,22 +126,20 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=CTRL.PrjPcb
+VaultURL=
+VaultName=
 
 [Parameter1]
 Name=_Project_Template_Version
 Value=1.0.1
 
 [Parameter2]
-Name=Authors
-Value=
-
-[Parameter3]
 Name=Project_Version
 Value=1
 
-[Parameter4]
-Name=ProjectName
-Value=DEV.Tnn.BRD
+[Parameter3]
+Name=Authors
+Value=Vitech
 
 [Generic_EDE]
 OutputDir=
