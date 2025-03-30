@@ -8,3 +8,5 @@
 ## BOTTOM VIEW PWRv1.0
 ![Image](https://github.com/user-attachments/assets/a2dad85b-4004-4bad-ae56-48932ab59f55)
 
+## SOLDERMAP
+![screenshot](https://github.com/Vitech-UA/insulated_dc-dc_200W/blob/main/PROD/PWR.v1/SOLDER_MAP_PWR.jpg?raw=true)
