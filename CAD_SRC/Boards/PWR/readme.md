@@ -10,3 +10,6 @@
 
 ## SOLDERMAP
 ![screenshot](https://github.com/Vitech-UA/insulated_dc-dc_200W/blob/main/PROD/PWR.v1/SOLDER_MAP_PWR.jpg?raw=true)
+
+## Розрахунок трансформатора
+https://github.com/Vitech-UA/insulated_dc-dc_200W/blob/main/DOCUMENTATION/Trans_CALC.jpg
